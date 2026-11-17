@@ -1,0 +1,2 @@
+# smile-tech
+dentist clinic
